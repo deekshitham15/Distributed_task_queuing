@@ -1,0 +1,3 @@
+/home/mdeek/distributed_task_queue/build/CMakeFiles/main.dir
+/home/mdeek/distributed_task_queue/build/CMakeFiles/edit_cache.dir
+/home/mdeek/distributed_task_queue/build/CMakeFiles/rebuild_cache.dir
